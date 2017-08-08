@@ -18,7 +18,7 @@
 ```
 cd op-workflow
 sh update_python2.7.8.sh 
-yum install rabbitmq-server -y
+yum install openldap-devel rabbitmq-server -y
 /etc/init.d/rabbitmq-server start
 chkconfig rabbitmq-server on
 pip install virtualenv
