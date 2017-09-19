@@ -47,7 +47,3 @@ sh service.sh start
 ### 截图
 ![](home.png)
 
-
-### 技术交流
-
-Email：飞龙 <hhr66@qq.com>
